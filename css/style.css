@@ -86,3 +86,6 @@ color: #37393F;
     font-weight: 700;
     font-size: 40px;
 }
+.image-wraper {
+    position: relative;
+}
