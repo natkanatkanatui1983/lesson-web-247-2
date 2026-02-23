@@ -87,5 +87,10 @@ color: #37393F;
     font-size: 40px;
 }
 .image-wraper {
-    position: relative;
+  position: relative;
+  text-align: center;
+}
+.secound {
+    font-weight: 700;
+    font-size: 40px;
 }
